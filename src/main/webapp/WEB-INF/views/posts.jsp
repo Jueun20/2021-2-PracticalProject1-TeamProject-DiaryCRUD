@@ -58,7 +58,6 @@
 h1 {
 	font-family: 'KOTRAHOPE';
 	display: inline-block;
-	text-decoration: underline;
 }
 
 th {
