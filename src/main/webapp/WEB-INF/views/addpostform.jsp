@@ -97,7 +97,7 @@ body {
 			</fieldset>
 			<div id="saveReset">
 				<button type="submit">저장</button> 
-				<button type="button" onclick="location.href=list">목록보기</button>
+				<button type="button" onclick="location.href='list'">목록보기</button>
 			</div>
 		</div>
 	</form>

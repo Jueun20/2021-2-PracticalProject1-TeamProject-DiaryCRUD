@@ -60,7 +60,7 @@ body {
 		</fieldset>
 		<div id="saveReset">
 			<input type="submit" value="수정" /> 
-			<input type="button" value="취소" onclick="history" />
+			<input type="button" value="취소" onclick="history.back()" />
 		</div>
 	</div>
 </form:form>
